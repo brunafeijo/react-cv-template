@@ -1,22 +1,13 @@
 export const tags = {
-  sectionTitle: '',
+  sectionTitle: 'Conhecimentos',
   icon: null,
   list: [
-    'Javascript',
-    'ReactJS',
-    'ReactNative',
-    'Redux',
-    'Webpack',
-    'Npm/Yarn',
-    'Git',
-    'C#',
-    'ASP.NETMVC',
-    'PHP',
-    'SOLID PRINCIPLES',
-    'XAMARIN',
-    'LINQ',
-    'N-TIER ARCHITECTURE',
-    'SOA ARCHITECTURE']
+    'PACOTE OFFICE',
+    'CONHECIMENTOS BÁSICOS EM ADOBE PHOTOSHOP CC E INDESIGN CC',
+    'CONHECIMENTOS BÁSICOS EM VIDEO E FOTOGRAFIA',
+    'CURSO DE JORNALISMO INVESTIGATIVO - ADRIANO MUNIZ',
+    'INGLÊS BÁSICO 2º SEMESTRE',
+    ]
 };
 
 export default tags;
