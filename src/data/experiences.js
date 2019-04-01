@@ -15,7 +15,7 @@ export const experiences = {
       title: 'Apresentadora',
       company: 'TV Diário',
       description: 'Produção e apresentação do programa Panorama 180º',
-      companyLink: 'https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw',
+      companyLink: 'https://www.youtube.com/channel/UCZTTW2PKpBPqzFFYiLl46Iw',
       companyShortDetail: 'TV Diário é uma emissora de televisão brasileira sediada em Fortaleza, capital do estado do Ceará. Opera no canal 22 (23 UHF digital), e pertence ao Sistema Verdes Mares, um dos maiores conglomerados de mídia do país, do qual também fazem parte a TV Verdes Mares, as rádios FM 93 e Verdes Mares, e o jornal Diário do Nordeste. É conhecida pela composição de sua programação, com produção inteiramente local, voltada ao público nordestino.',
       date: ''
     },
