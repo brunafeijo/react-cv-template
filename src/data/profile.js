@@ -9,7 +9,7 @@ const profile = {
   imagePath: 'profile.png',
   twitter: null,
   educationDetails: {
-    sectionTitle: '',
+    sectionTitle: 'Educação',
     list: [
       { name: 'Bacharelado em Comunicação Social - Jornalismo', school: 'Universidade de Fortaleza', date: '2014-Present' },
     ]
