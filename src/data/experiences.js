@@ -24,7 +24,7 @@ export const experiences = {
       company: 'TV Unifor',
       description: 'Produção dos programas Dois Pontos, Vivências e Curta Ceará; Produção e reportagem do programa Unifor 180º',
       companyLink: 'https://www.unifor.br/tv-unifor',
-      companyShortDetail: 'TV Unifor é um canal de televisão brasileiro sediado em Fortaleza, capital do estado do Ceará. ... Sua programação também é retransmitida pela TV Diário, em um espaço próprio nas madrugadas do emissora intitulado Momento Unifor, além de outras produções.',
+      companyShortDetail: 'TV Unifor é um canal de televisão brasileiro sediado em Fortaleza, capital do estado do Ceará. Sua programação também é retransmitida pela TV Diário, em um espaço próprio nas madrugadas do emissora intitulado Momento Unifor, além de outras produções.',
       date: ''
     },
     {
@@ -46,7 +46,7 @@ export const experiences = {
     {
       title: 'Produtora textual',
       company: 'Unifor',
-      description: 'Desenvolvimento de textos jornalísticos para jornais impressos Sobpressão e Fôlego, com as matérias \"Os Profissionais da Monografia\" e \"Arbitragem Dependem de Gênero?\". Produção de conteúdo e material do jornal impresso da empresa KiSorvetão',
+      description: 'Desenvolvimento de textos jornalísticos para jornais impressos Sobpressão e Fôlego, com as matérias \"Os Profissionais da Monografia\" e \"Arbitragem Dependem de Gênero?\". Produção de conteúdo e material do jornal impresso da empresa KiSorvetão.',
       companyLink: 'https://blogdolabjor.wordpress.com',
       companyShortDetail: 'Fôlego é um caderno de esportes produzido pelos estagiários do Labjor. Com o objetivo de abordar temáticas de interesse da comunidade universitária. O jornal traz matérias sobre esportes radicais, competições, saúde e entrevistas com destaques do esporte. Como prioriza as fotografias, o recorte de imagens e uma abordagem mais humana, o caderno torna-se muito convidativo e de fácil leitura. O Jornal de Bandeja é uma das publicações mais populares do LabJor. Idealizado e coordenado até 2011 pelo professor Jocélio Leal, atualmente é supervisionado pelo professor Ricardo Feitosa.',
       date: ''
